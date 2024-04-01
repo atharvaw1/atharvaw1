@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,mysql,mongodb,py,java,go,scala,c,js,html,css,docker,tensorflow,spark,neovim,supabase,linux,md,nodejs,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,mysql,mongodb,postgres,py,java,go,scala,c,js,pytorch,tensorflow,django,flask,redis,gitlab,html,css,docker,neovim,supabase,linux,nodejs,postman,unity&perline=14" />
   </a>
 </p>
 
