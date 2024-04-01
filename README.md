@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,mysql,mongodb,py,java,c,js,html,css,discord,docker,figma,supabase,linux,md,nodejs,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,mysql,mongodb,py,java,go,scala,c,js,html,css,docker,tensorflow,spark,neovim,supabase,linux,md,nodejs,postman&perline=14" />
   </a>
 </p>
 
@@ -91,9 +91,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/atharva-wandile/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discord.gg/users/316873221209325568" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="https://www.linkedin.com/in/atharva-wandile/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
 </p>
 
 
