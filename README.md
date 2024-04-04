@@ -31,29 +31,6 @@
 
 <!--Intro end-->
 
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=atharvaw1&theme=dark&show_icons=true&count_private=true" />-->
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaw1&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atharvaw1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -79,6 +56,29 @@
     <img src="https://skillicons.dev/icons?i=git,aws,mysql,mongodb,postgres,py,java,go,scala,c,js,pytorch,tensorflow,django,flask,redis,gitlab,html,css,docker,neovim,supabase,linux,nodejs,postman,unity&perline=14" />
   </a>
 </p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=atharvaw1&theme=dark&show_icons=true&count_private=true" />-->
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaw1&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atharvaw1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
 
 
 <!-- Connect with me -->
