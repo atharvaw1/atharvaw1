@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **to build data pipelines for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 I have a keen interest in applied artificial intelligence and reinforcement learning.
 
 - 💬 Ask me about **AWS, Python, ML**
 
