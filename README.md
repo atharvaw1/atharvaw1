@@ -19,13 +19,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working at **OAK AI**
+- 🔭 I’m currently working at **APTIV**
 
 - 🌱 I’m currently learning **to build data pipelines for Scalable Applications.**
 
 - 🌱 I have a keen interest in applied artificial intelligence and reinforcement learning.
 
-- 💬 Ask me about **AWS, Python, ML**
+- 💬 Ask me about **Python, ML, RL**
 
 - 📫 Feel free to reach me out **atharvaw31@gmail.com**
 
